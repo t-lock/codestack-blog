@@ -1,7 +1,7 @@
 ---
 path: "/hello-world"
 date: "3/13/2018, 11:42:08 AM"
-title: "My First Gatsby Post"
+title: "First Post"
 ---
 Oooooh-weeee, my first blog post!
 
