@@ -59,7 +59,7 @@ const TemplateWrapper = ({ children }) => (
               </div>
               <div style={{ flex: 1 }}>
                 <Sidebar
-                  title="Codestack"
+                  title="Aside"
                   description="Tlock is the lorem ipsum"
                 />
                 <Sidebar

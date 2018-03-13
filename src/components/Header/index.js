@@ -24,7 +24,7 @@ const Header = () => (
             textDecoration: 'none',
           }}
         >
-          CodeStack
+          Blog
         </Link>
       </h1>
     </div>
