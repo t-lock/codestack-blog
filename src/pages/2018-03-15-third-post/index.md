@@ -4,6 +4,6 @@ date: "3/13/2018, 1:01:40 PM"
 title: "Third Post"
 ---
 
-![rando image](https://source.unsplash.com/random/400x200 "Random image from unsplash")
+![rad image](/static/img/devilstear.jpg "The Devil's Tear")
 
 You get the point.
