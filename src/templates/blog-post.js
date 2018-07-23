@@ -7,7 +7,7 @@ export default function Template({
   const post = data.markdownRemark;
   return (
     <div className="blog-post-container">
-     <Helmet title={`CodeStack - ${post.frontmatter.title}`} />
+     <Helmet title={`Gatsby Starter | ${post.frontmatter.title}`} />
       <div className="blog-post">
         <header>
           <h1>{post.frontmatter.title}</h1>
