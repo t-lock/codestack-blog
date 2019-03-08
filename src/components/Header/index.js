@@ -16,7 +16,7 @@ const Header = () => (
         padding: '1.45rem 1.0875rem',
       }}
     >
-      <h1 style={{margin: 0, textAlign: 'center',fontSize: '18px'}}>
+      <h1 style={{ margin: 0, textAlign: 'center', fontSize: '18px' }}>
         <Link
           to="/"
           style={{
@@ -25,17 +25,6 @@ const Header = () => (
           }}
         >
           Blog
-        </Link>
-      </h1>
-      <h1 style={{margin: 0, textAlign: 'center',fontSize: '18px'}}>
-        <Link
-          to="/page-2/"
-          style={{
-            color: 'black',
-            textDecoration: 'none',
-          }}
-        >
-          Page 2
         </Link>
       </h1>
     </div>
